@@ -1,0 +1,13 @@
+================================================================================
+NORDIC POLLEN DATA - EXPLORATORY DATA ANALYSIS SUMMARY
+================================================================================
+
+Total records loaded: 271,462
+Records with negative age_BP (excluded): 4,308
+Valid records analyzed: 267,154
+Unique sites: 294
+Unique taxa: 1194
+Temporal range: 0 to 21266 BP
+Spatial extent: 54.5-80.6°N, -20.6-30.8°E
+
+All figures saved at 300 dpi.

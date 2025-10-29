@@ -1,0 +1,50 @@
+{
+  "input_xlsx": "D:\\Arctic\\nordic\\Time_series\\03_nordic_analysis\\nordic_pollen_data.xlsx",
+  "n_samples": 13554,
+  "n_sites": 217,
+  "n_taxa": 1174,
+  "subbin_width_years": 500,
+  "min_samples_per_bin": 30,
+  "rolling_window_years": 2000,
+  "rolling_step_years": 200,
+  "loess_frac": 0.25,
+  "bootstrap_reps": 1000,
+  "periods_used": [
+    [
+      "Late Pleistocene",
+      11700,
+      27500,
+      "#d4b9da"
+    ],
+    [
+      "Early Holocene",
+      8200,
+      11700,
+      "#fdd49e"
+    ],
+    [
+      "Mid Holocene",
+      4200,
+      8200,
+      "#c7e9c0"
+    ],
+    [
+      "Late Holocene",
+      1000,
+      4200,
+      "#fff4e6"
+    ],
+    [
+      "Historical",
+      100,
+      1000,
+      "#7ec8e3"
+    ],
+    [
+      "Recent",
+      0,
+      100,
+      "#b3e0f2"
+    ]
+  ]
+}
