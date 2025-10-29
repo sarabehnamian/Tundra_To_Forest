@@ -62,4 +62,4 @@ This synthesis provides a reproducible, data-driven framework linking large-scal
 - Neotoma Paleoecology Database (cite according to their guidelines)
 
 ### License
-Add a `LICENSE` file (e.g., MIT) if you plan to distribute.
+MIT License - see LICENSE file for details.
